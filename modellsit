@@ -1,0 +1,23 @@
+updated on 9 may 
+theres no way to be sure that this is everything if you find anything lmk.
+
+[
+    'Gemma', 'Llama3', 'Meta Llama 3', 'Phi-3 Mini', 'alfred', 'all-minilm',
+    'bakllava', 'codebooga', 'codegemma', 'codellama', 'codeqwen', 'codeup',
+    'command-r', 'command-r-plus', 'dbrx', 'deepseek-coder', 'deepseek-llm',
+    'dolphin-llama3', 'dolphin-mistral', 'dolphin-mixtral', 'dolphin-phi',
+    'dolphincoder', 'duckdb-nsql', 'everythinglm', 'falcon', 'gemma',
+    'goliath', 'llama-pro', 'llama2', 'llama2-chinese', 'llama2-uncensored',
+    'llama3', 'llama3-gradient', 'llava', 'llava-llama3', 'llava-phi3',
+    'magicoder', 'meditron', 'medllama2', 'megadolphin', 'mistral',
+    'mistral-openorca', 'mistrallite', 'mixtral', 'moondream', 'mxbai-embed-large',
+    'neural-chat', 'nexusraven', 'nomic-embed-text', 'notus', 'notux',
+    'nous-hermes', 'nous-hermes2', 'nous-hermes2-mixtral', 'open-orca-platypus2',
+    'openchat', 'openhermes', 'orca-mini', 'orca2', 'phi', 'phi3', 'phind-codellama',
+    'qwen', 'samantha-mistral', 'snowflake-arctic-embed', 'solar', 'sqlcoder',
+    'stable-beluga', 'stable-code', 'stablelm-zephyr', 'stablelm2', 'starcoder',
+    'starcoder2', 'starling-lm', 'tinydolphin', 'tinyllama', 'vicuna',
+    'wizard-math', 'wizard-vicuna', 'wizard-vicuna-uncensored', 'wizardcoder',
+    'wizardlm', 'wizardlm-uncensored', 'wizardlm2', 'xwinlm', 'yarn-llama2',
+    'yarn-mistral', 'yi', 'zephyr'
+]
